@@ -1,0 +1,16 @@
+This folder contains Rcodes for mauscript of "Online Bayesian learning for mixtures of spatial spline regressions" 
+
+---file 'fARI.R' : function for computation of adjusted rand index (ARI).
+---file 'NBFs.R' : function for computation of coveriates matrix 
+---file 'PF.R'   : include all particle filter functions 
+
+---file 'par_initializationbyhrclu.R' : initialization of the paramters for better performance of algorithms.
+---file 'Algorithm1_k.R'              : gibbs sampling algorithm
+---file 'simulator.R'                 : simulator for simulation study in section 5.
+---file 'read_in_real_app1.R'         : read in real data for application study (here we use handwritten data as an example).
+
+---file 'example_sec5_1_mcmc_fitting.R'    : main code for section 5.1, surface fitting via mcmc (gibbs sampling).
+---file 'example_sec5_2_mcmc_clustering.R' : main code for section 5.2, surface clustering via mcmc (gibbs sampling).
+---file 'example_sec5_2_smc_clustering.R'  : main code for section 5.2, surface clustering via online SMC algorithm .
+---file 'example_sec6_smc_clustering.R'    : main code for section 6.1, real data application of surface clustering 
+                                              via online SMC algorithm . here we use handwritten data as an example.
