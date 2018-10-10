@@ -56,7 +56,7 @@ for(k in 1:K){
   abline(v=mean(c(result_sigma[-c(1:1000),k])),lty=1,col="blue")
   abline(v=quantile(c(result_sigma[-c(1:1000),k]),probs=c(0.025,0.975)),lty=2,col="blue")
 }
-#output x1,x2, y.fitted, y.mean, then we can use the data to make plots in Matlab.
+#output x1,x2 (coordinates), y.fitted, y.mean, then we can use the data to make plots in Matlab.
 for(f_k in 1:K){
   file1=paste("mcmc_clustering_Y_true_k",f_k,".csv",sep="")
   file2=paste("mcmc_clustering_Y_fitted_k",f_k,".csv",sep="")
