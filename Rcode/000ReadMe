@@ -4,7 +4,7 @@ This folder contains the R code for manuscript of "Online Bayesian learning for 
 ---file 'NBFs.R' : function for computation of covariates matrix 
 ---file 'PF.R'   : include all particle filter functions 
 
----file 'par_initializationbyhrclu.R' : initialization of the parameters for better performance of algorithms.
+---file 'par_initializationbyhrclu.R' : initialization of the parameters for MCMC.
 ---file 'Algorithm1_k.R'              : Gibbs sampling algorithm
 ---file 'simulator.R'                 : simulator for simulation study in section 5.
 ---file 'read_in_real_app1.R'         : read in real data for application study (here we use handwritten data as an example).
