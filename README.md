@@ -4,7 +4,7 @@ This file contains code impments the online SMC algorithm described in Ge,S., Wa
 ## Citation
 If you use the code (partial or all) in your research, please cite the following manuscript:
 ```diff
- Ge,S., Wang,S., Wang, L. (2021). Online Bayesian learning for mixtures of spatial spline regressions with mixed-effects.
+ Ge,S., Wang,S., Nathoo.F., Wang, L. (2021). Online Bayesian learning for mixtures of spatial spline regressions with mixed-effects.
 ```
  
  
