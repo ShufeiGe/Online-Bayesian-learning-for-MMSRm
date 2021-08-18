@@ -1,5 +1,5 @@
 # Online-Bayesian-learning-for-mixtures-of-spatial-spline-regressions with mixed-effects
-This file contains code impments the online SMC algorithm described in Ge,S., Wang,S., Wang, L. (2021). Online Bayesian learning for mixtures of spatial spline regressions with mixed-effects (Manuscript is under review). The code files are released under the open source BSD 2-clause license.
+This file contains code impments the online SMC algorithm described in Ge,S., Wang,S., Nathoo,F., Wang, L. (2021). Online Bayesian learning for mixtures of spatial spline regressions with mixed-effects (Manuscript is under review). The code files are released under the open source BSD 2-clause license.
 
 ## Citation
 If you use the code (partial or all) in your research, please cite the following manuscript:
